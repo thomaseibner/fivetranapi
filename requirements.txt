@@ -1,2 +1,4 @@
 logging
 requests
+pyodbc
+azure-storage-blob
